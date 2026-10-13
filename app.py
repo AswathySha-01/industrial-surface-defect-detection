@@ -18,7 +18,7 @@ st.write(
 )
 
 # Model path
-MODEL_PATH = Path(__file__).parent / "models" / "best.pt"
+MODEL_PATH = Path(__file__).parent / "best.pt"
 
 if not MODEL_PATH.is_file():
     st.error(f"Model weights not found: {MODEL_PATH}")
