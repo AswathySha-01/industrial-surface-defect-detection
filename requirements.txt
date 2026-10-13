@@ -1,0 +1,4 @@
+ultralytics
+openCV-python
+numpy
+streamlit
