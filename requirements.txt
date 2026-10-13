@@ -1,4 +1,4 @@
 ultralytics
-openCV-python
+opencv-python-headless
 numpy
 streamlit
